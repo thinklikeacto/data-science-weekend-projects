@@ -19,3 +19,18 @@ To get started with these projects, you will need to clone this repository to yo
 
 ```bash
 git clone https://github.com/thinklikeacto/data-science-weekend-projects.git
+```
+
+## Contribution Guidelines
+
+We welcome contributions to enrich this repository! Whether you want to add new projects, enhance existing ones, or fix bugs, here's how you can contribute:
+
+1. Fork the repository to your GitHub account.
+2. Create a new branch for your modifications (`git checkout -b feature/AmazingFeature`).
+3. Make your changes and commit them (`git commit -m 'Add some AmazingFeature'`).
+4. Push your changes to the branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. You can find the details in the [LICENSE](LICENSE) file. This license grants you the freedom to use, modify, distribute, and sublicense the software without any legal concerns.
